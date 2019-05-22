@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.4"><request><http-version>1.1</http-version><http-follow-redirects>false</http-follow-redirects><URL>http://localhost:7210/scxml/session/33TOEKEL6D1T98L2D9O7LLO2JK00000I/event/async</URL><method>POST</method></request></rest-client>

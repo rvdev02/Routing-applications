@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.4"><request><http-version>1.1</http-version><http-follow-redirects>false</http-follow-redirects><URL>http://localhost:7210/scxml/session/DCPPP8D4NP12P8V6QPM3HMLPB4000007/event/ping</URL><method>POST</method></request></rest-client>

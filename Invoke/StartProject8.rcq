@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.4"><request><http-version>1.1</http-version><http-follow-redirects>false</http-follow-redirects><URL>http://localhost:7210/scxml/session/start?src=http://demosrv:9001/Project8_Invoke/src-gen/IPD_default_defaultWorkflow.scxml</URL><method>GET</method></request></rest-client>
